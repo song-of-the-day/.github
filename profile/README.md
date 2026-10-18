@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<img src="/desktop-board-midnight-crt.png" style="width: 100%"/>
+<img src="/assets/desktop-board-midnight-crt.png" style="width: 100%"/>
 
 Hey there, we're building Song of the Day — a music journalling app. We're fully open source and welcome contributions! If you want to suggest/add a feature, document a bug, or localize to your fluent language, we'd appreciate all your help and contribution.
 
